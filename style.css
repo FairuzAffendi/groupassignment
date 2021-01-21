@@ -1,0 +1,78 @@
+body
+{
+	background-image: url("image/cute.jpg");
+}
+
+h1 
+{
+	color: #000000;
+	text-align: center;
+	border: 5px solid #338FFF;
+	background-color: #9FE2BF;
+	border-radius: 20px
+	font-size: 50px;
+	width: 7000px
+	padding: 0px;
+	font-family: 'CASTELLAR', cursive;
+}
+
+h2
+{
+	background-color: #9FE2BF; 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 45px;
+	border:solid;
+	border-color: black;
+	border-radius: 50px;
+}
+
+h3
+{
+ 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 25px;
+
+}
+
+h4 
+{
+	background-color: #9FE2BF; 
+	color: #000000;
+	text-align: center;
+	font-family: 'LUCIDA CALLIGRAPHY', cursive;
+	font-size: 45px;
+	border:solid;
+	border-color: black;
+	border-radius: 50px;
+}
+
+p
+{
+	background-color: #9FE2BF;
+	font-size: 40px;
+	text-align: center;
+	color: #000000;
+	font-family: 'Ink Free', cursive;
+	padding: 15px;
+}
+
+a:link, a:visited
+	{
+		background-color: #338FFF;
+		color: #CCCCFF;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px;
+	}
+
+a:hover, a:active
+	{
+		background-color: #75BDE3;
+		color: #7590E3;
+	}
